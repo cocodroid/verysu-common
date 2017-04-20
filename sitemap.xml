@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="image">  
+  <url> 
+    <loc>http://www.javatips123.net/ccc</loc>  
+    <lastmod>2015-12-10T21:47:28.228+08:00</lastmod>  
+    <priority>1.0</priority>  
+    <changefreq>hourly</changefreq>  
+    <image:image> 
+      <image:loc>iiii2</image:loc> 
+    </image:image>  
+    <image:image> 
+      <image:loc>iiii2</image:loc> 
+    </image:image> 
+  </url>  
+  <url> 
+    <loc>http://www.javatips123.net/ccc</loc>  
+    <lastmod>2015-12-10T21:47:43.097+08:00</lastmod>  
+    <priority>1.0</priority>  
+    <changefreq>hourly</changefreq>  
+    <image:image> 
+      <image:loc>iiii2</image:loc> 
+    </image:image>  
+    <image:image> 
+      <image:loc>iiii2</image:loc> 
+    </image:image> 
+  </url> 
+</urlset>
