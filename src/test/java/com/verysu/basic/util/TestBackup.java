@@ -26,5 +26,5 @@ public class TestBackup {
 //	public void testResume() {
 //		BackupFileUtil.getInstance("E:\\论文和项目\\附中").resume("1377610223607_测试备份.tar.gz");
 //	}
-//	
+	
 }
